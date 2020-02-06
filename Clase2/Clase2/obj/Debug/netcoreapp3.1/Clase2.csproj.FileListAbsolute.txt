@@ -1,0 +1,11 @@
+D:\BecSeg\13C#\Clase2\Clase2\bin\Debug\netcoreapp3.1\Clase2.exe
+D:\BecSeg\13C#\Clase2\Clase2\bin\Debug\netcoreapp3.1\Clase2.deps.json
+D:\BecSeg\13C#\Clase2\Clase2\bin\Debug\netcoreapp3.1\Clase2.runtimeconfig.json
+D:\BecSeg\13C#\Clase2\Clase2\bin\Debug\netcoreapp3.1\Clase2.runtimeconfig.dev.json
+D:\BecSeg\13C#\Clase2\Clase2\bin\Debug\netcoreapp3.1\Clase2.dll
+D:\BecSeg\13C#\Clase2\Clase2\bin\Debug\netcoreapp3.1\Clase2.pdb
+D:\BecSeg\13C#\Clase2\Clase2\obj\Debug\netcoreapp3.1\Clase2.csprojAssemblyReference.cache
+D:\BecSeg\13C#\Clase2\Clase2\obj\Debug\netcoreapp3.1\Clase2.AssemblyInfoInputs.cache
+D:\BecSeg\13C#\Clase2\Clase2\obj\Debug\netcoreapp3.1\Clase2.AssemblyInfo.cs
+D:\BecSeg\13C#\Clase2\Clase2\obj\Debug\netcoreapp3.1\Clase2.dll
+D:\BecSeg\13C#\Clase2\Clase2\obj\Debug\netcoreapp3.1\Clase2.pdb
