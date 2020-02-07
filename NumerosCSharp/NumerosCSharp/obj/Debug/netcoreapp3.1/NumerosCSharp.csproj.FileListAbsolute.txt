@@ -1,0 +1,11 @@
+C:\Users\Dialid\source\repos\NumerosCSharp\NumerosCSharp\bin\Debug\netcoreapp3.1\NumerosCSharp.exe
+C:\Users\Dialid\source\repos\NumerosCSharp\NumerosCSharp\bin\Debug\netcoreapp3.1\NumerosCSharp.deps.json
+C:\Users\Dialid\source\repos\NumerosCSharp\NumerosCSharp\bin\Debug\netcoreapp3.1\NumerosCSharp.runtimeconfig.json
+C:\Users\Dialid\source\repos\NumerosCSharp\NumerosCSharp\bin\Debug\netcoreapp3.1\NumerosCSharp.runtimeconfig.dev.json
+C:\Users\Dialid\source\repos\NumerosCSharp\NumerosCSharp\bin\Debug\netcoreapp3.1\NumerosCSharp.dll
+C:\Users\Dialid\source\repos\NumerosCSharp\NumerosCSharp\bin\Debug\netcoreapp3.1\NumerosCSharp.pdb
+C:\Users\Dialid\source\repos\NumerosCSharp\NumerosCSharp\obj\Debug\netcoreapp3.1\NumerosCSharp.csprojAssemblyReference.cache
+C:\Users\Dialid\source\repos\NumerosCSharp\NumerosCSharp\obj\Debug\netcoreapp3.1\NumerosCSharp.AssemblyInfoInputs.cache
+C:\Users\Dialid\source\repos\NumerosCSharp\NumerosCSharp\obj\Debug\netcoreapp3.1\NumerosCSharp.AssemblyInfo.cs
+C:\Users\Dialid\source\repos\NumerosCSharp\NumerosCSharp\obj\Debug\netcoreapp3.1\NumerosCSharp.dll
+C:\Users\Dialid\source\repos\NumerosCSharp\NumerosCSharp\obj\Debug\netcoreapp3.1\NumerosCSharp.pdb

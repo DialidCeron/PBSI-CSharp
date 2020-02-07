@@ -1,0 +1,11 @@
+D:\BecSeg\13C#\Arreglos1\Arreglos1\bin\Debug\netcoreapp3.1\Arreglos1.exe
+D:\BecSeg\13C#\Arreglos1\Arreglos1\bin\Debug\netcoreapp3.1\Arreglos1.deps.json
+D:\BecSeg\13C#\Arreglos1\Arreglos1\bin\Debug\netcoreapp3.1\Arreglos1.runtimeconfig.json
+D:\BecSeg\13C#\Arreglos1\Arreglos1\bin\Debug\netcoreapp3.1\Arreglos1.runtimeconfig.dev.json
+D:\BecSeg\13C#\Arreglos1\Arreglos1\bin\Debug\netcoreapp3.1\Arreglos1.dll
+D:\BecSeg\13C#\Arreglos1\Arreglos1\bin\Debug\netcoreapp3.1\Arreglos1.pdb
+D:\BecSeg\13C#\Arreglos1\Arreglos1\obj\Debug\netcoreapp3.1\Arreglos1.csprojAssemblyReference.cache
+D:\BecSeg\13C#\Arreglos1\Arreglos1\obj\Debug\netcoreapp3.1\Arreglos1.AssemblyInfoInputs.cache
+D:\BecSeg\13C#\Arreglos1\Arreglos1\obj\Debug\netcoreapp3.1\Arreglos1.AssemblyInfo.cs
+D:\BecSeg\13C#\Arreglos1\Arreglos1\obj\Debug\netcoreapp3.1\Arreglos1.dll
+D:\BecSeg\13C#\Arreglos1\Arreglos1\obj\Debug\netcoreapp3.1\Arreglos1.pdb

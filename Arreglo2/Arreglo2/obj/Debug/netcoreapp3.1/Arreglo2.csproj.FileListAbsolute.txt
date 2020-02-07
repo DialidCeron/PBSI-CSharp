@@ -1,0 +1,11 @@
+C:\Users\Dialid\source\repos\Arreglo2\Arreglo2\bin\Debug\netcoreapp3.1\Arreglo2.exe
+C:\Users\Dialid\source\repos\Arreglo2\Arreglo2\bin\Debug\netcoreapp3.1\Arreglo2.deps.json
+C:\Users\Dialid\source\repos\Arreglo2\Arreglo2\bin\Debug\netcoreapp3.1\Arreglo2.runtimeconfig.json
+C:\Users\Dialid\source\repos\Arreglo2\Arreglo2\bin\Debug\netcoreapp3.1\Arreglo2.runtimeconfig.dev.json
+C:\Users\Dialid\source\repos\Arreglo2\Arreglo2\bin\Debug\netcoreapp3.1\Arreglo2.dll
+C:\Users\Dialid\source\repos\Arreglo2\Arreglo2\bin\Debug\netcoreapp3.1\Arreglo2.pdb
+C:\Users\Dialid\source\repos\Arreglo2\Arreglo2\obj\Debug\netcoreapp3.1\Arreglo2.csprojAssemblyReference.cache
+C:\Users\Dialid\source\repos\Arreglo2\Arreglo2\obj\Debug\netcoreapp3.1\Arreglo2.AssemblyInfoInputs.cache
+C:\Users\Dialid\source\repos\Arreglo2\Arreglo2\obj\Debug\netcoreapp3.1\Arreglo2.AssemblyInfo.cs
+C:\Users\Dialid\source\repos\Arreglo2\Arreglo2\obj\Debug\netcoreapp3.1\Arreglo2.dll
+C:\Users\Dialid\source\repos\Arreglo2\Arreglo2\obj\Debug\netcoreapp3.1\Arreglo2.pdb

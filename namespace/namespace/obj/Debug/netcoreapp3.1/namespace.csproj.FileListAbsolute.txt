@@ -1,0 +1,11 @@
+C:\Users\Oscar\Documents\C#\namespace\namespace\obj\Debug\netcoreapp3.1\namespace.csprojAssemblyReference.cache
+C:\Users\Oscar\Documents\C#\namespace\namespace\obj\Debug\netcoreapp3.1\namespace.AssemblyInfoInputs.cache
+C:\Users\Oscar\Documents\C#\namespace\namespace\obj\Debug\netcoreapp3.1\namespace.AssemblyInfo.cs
+C:\Users\Oscar\Documents\C#\namespace\namespace\bin\Debug\netcoreapp3.1\namespace.exe
+C:\Users\Oscar\Documents\C#\namespace\namespace\bin\Debug\netcoreapp3.1\namespace.deps.json
+C:\Users\Oscar\Documents\C#\namespace\namespace\bin\Debug\netcoreapp3.1\namespace.runtimeconfig.json
+C:\Users\Oscar\Documents\C#\namespace\namespace\bin\Debug\netcoreapp3.1\namespace.runtimeconfig.dev.json
+C:\Users\Oscar\Documents\C#\namespace\namespace\bin\Debug\netcoreapp3.1\namespace.dll
+C:\Users\Oscar\Documents\C#\namespace\namespace\bin\Debug\netcoreapp3.1\namespace.pdb
+C:\Users\Oscar\Documents\C#\namespace\namespace\obj\Debug\netcoreapp3.1\namespace.dll
+C:\Users\Oscar\Documents\C#\namespace\namespace\obj\Debug\netcoreapp3.1\namespace.pdb
