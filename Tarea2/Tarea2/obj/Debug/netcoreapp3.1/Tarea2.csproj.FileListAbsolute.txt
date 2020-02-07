@@ -1,0 +1,11 @@
+D:\BecSeg\13C#\Tarea2\Tarea2\bin\Debug\netcoreapp3.1\Tarea2.exe
+D:\BecSeg\13C#\Tarea2\Tarea2\bin\Debug\netcoreapp3.1\Tarea2.deps.json
+D:\BecSeg\13C#\Tarea2\Tarea2\bin\Debug\netcoreapp3.1\Tarea2.runtimeconfig.json
+D:\BecSeg\13C#\Tarea2\Tarea2\bin\Debug\netcoreapp3.1\Tarea2.runtimeconfig.dev.json
+D:\BecSeg\13C#\Tarea2\Tarea2\bin\Debug\netcoreapp3.1\Tarea2.dll
+D:\BecSeg\13C#\Tarea2\Tarea2\bin\Debug\netcoreapp3.1\Tarea2.pdb
+D:\BecSeg\13C#\Tarea2\Tarea2\obj\Debug\netcoreapp3.1\Tarea2.csprojAssemblyReference.cache
+D:\BecSeg\13C#\Tarea2\Tarea2\obj\Debug\netcoreapp3.1\Tarea2.AssemblyInfoInputs.cache
+D:\BecSeg\13C#\Tarea2\Tarea2\obj\Debug\netcoreapp3.1\Tarea2.AssemblyInfo.cs
+D:\BecSeg\13C#\Tarea2\Tarea2\obj\Debug\netcoreapp3.1\Tarea2.dll
+D:\BecSeg\13C#\Tarea2\Tarea2\obj\Debug\netcoreapp3.1\Tarea2.pdb
