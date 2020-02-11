@@ -1,0 +1,11 @@
+C:\Users\Dialid\source\repos\Excepciones\Excepciones\bin\Debug\netcoreapp3.1\Excepciones.exe
+C:\Users\Dialid\source\repos\Excepciones\Excepciones\bin\Debug\netcoreapp3.1\Excepciones.deps.json
+C:\Users\Dialid\source\repos\Excepciones\Excepciones\bin\Debug\netcoreapp3.1\Excepciones.runtimeconfig.json
+C:\Users\Dialid\source\repos\Excepciones\Excepciones\bin\Debug\netcoreapp3.1\Excepciones.runtimeconfig.dev.json
+C:\Users\Dialid\source\repos\Excepciones\Excepciones\bin\Debug\netcoreapp3.1\Excepciones.dll
+C:\Users\Dialid\source\repos\Excepciones\Excepciones\bin\Debug\netcoreapp3.1\Excepciones.pdb
+C:\Users\Dialid\source\repos\Excepciones\Excepciones\obj\Debug\netcoreapp3.1\Excepciones.csprojAssemblyReference.cache
+C:\Users\Dialid\source\repos\Excepciones\Excepciones\obj\Debug\netcoreapp3.1\Excepciones.AssemblyInfoInputs.cache
+C:\Users\Dialid\source\repos\Excepciones\Excepciones\obj\Debug\netcoreapp3.1\Excepciones.AssemblyInfo.cs
+C:\Users\Dialid\source\repos\Excepciones\Excepciones\obj\Debug\netcoreapp3.1\Excepciones.dll
+C:\Users\Dialid\source\repos\Excepciones\Excepciones\obj\Debug\netcoreapp3.1\Excepciones.pdb

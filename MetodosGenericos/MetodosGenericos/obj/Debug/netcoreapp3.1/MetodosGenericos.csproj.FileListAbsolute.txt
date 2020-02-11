@@ -1,0 +1,10 @@
+C:\Users\Dialid\source\repos\MetodosGenericos\MetodosGenericos\bin\Debug\netcoreapp3.1\MetodosGenericos.exe
+C:\Users\Dialid\source\repos\MetodosGenericos\MetodosGenericos\bin\Debug\netcoreapp3.1\MetodosGenericos.deps.json
+C:\Users\Dialid\source\repos\MetodosGenericos\MetodosGenericos\bin\Debug\netcoreapp3.1\MetodosGenericos.runtimeconfig.json
+C:\Users\Dialid\source\repos\MetodosGenericos\MetodosGenericos\bin\Debug\netcoreapp3.1\MetodosGenericos.runtimeconfig.dev.json
+C:\Users\Dialid\source\repos\MetodosGenericos\MetodosGenericos\bin\Debug\netcoreapp3.1\MetodosGenericos.dll
+C:\Users\Dialid\source\repos\MetodosGenericos\MetodosGenericos\bin\Debug\netcoreapp3.1\MetodosGenericos.pdb
+C:\Users\Dialid\source\repos\MetodosGenericos\MetodosGenericos\obj\Debug\netcoreapp3.1\MetodosGenericos.AssemblyInfoInputs.cache
+C:\Users\Dialid\source\repos\MetodosGenericos\MetodosGenericos\obj\Debug\netcoreapp3.1\MetodosGenericos.AssemblyInfo.cs
+C:\Users\Dialid\source\repos\MetodosGenericos\MetodosGenericos\obj\Debug\netcoreapp3.1\MetodosGenericos.dll
+C:\Users\Dialid\source\repos\MetodosGenericos\MetodosGenericos\obj\Debug\netcoreapp3.1\MetodosGenericos.pdb

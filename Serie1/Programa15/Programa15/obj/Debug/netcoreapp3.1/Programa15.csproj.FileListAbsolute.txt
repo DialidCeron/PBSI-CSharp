@@ -1,0 +1,10 @@
+C:\Users\Dialid\Documents\GitHub\PBSI-CSharp\Serie1\Programa15\Programa15\bin\Debug\netcoreapp3.1\Programa15.exe
+C:\Users\Dialid\Documents\GitHub\PBSI-CSharp\Serie1\Programa15\Programa15\bin\Debug\netcoreapp3.1\Programa15.deps.json
+C:\Users\Dialid\Documents\GitHub\PBSI-CSharp\Serie1\Programa15\Programa15\bin\Debug\netcoreapp3.1\Programa15.runtimeconfig.json
+C:\Users\Dialid\Documents\GitHub\PBSI-CSharp\Serie1\Programa15\Programa15\bin\Debug\netcoreapp3.1\Programa15.runtimeconfig.dev.json
+C:\Users\Dialid\Documents\GitHub\PBSI-CSharp\Serie1\Programa15\Programa15\bin\Debug\netcoreapp3.1\Programa15.dll
+C:\Users\Dialid\Documents\GitHub\PBSI-CSharp\Serie1\Programa15\Programa15\bin\Debug\netcoreapp3.1\Programa15.pdb
+C:\Users\Dialid\Documents\GitHub\PBSI-CSharp\Serie1\Programa15\Programa15\obj\Debug\netcoreapp3.1\Programa15.AssemblyInfoInputs.cache
+C:\Users\Dialid\Documents\GitHub\PBSI-CSharp\Serie1\Programa15\Programa15\obj\Debug\netcoreapp3.1\Programa15.AssemblyInfo.cs
+C:\Users\Dialid\Documents\GitHub\PBSI-CSharp\Serie1\Programa15\Programa15\obj\Debug\netcoreapp3.1\Programa15.dll
+C:\Users\Dialid\Documents\GitHub\PBSI-CSharp\Serie1\Programa15\Programa15\obj\Debug\netcoreapp3.1\Programa15.pdb

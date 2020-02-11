@@ -1,0 +1,10 @@
+C:\Users\Dialid\source\repos\ClasesGenericas\ClasesGenericas\bin\Debug\netcoreapp3.1\ClasesGenericas.exe
+C:\Users\Dialid\source\repos\ClasesGenericas\ClasesGenericas\bin\Debug\netcoreapp3.1\ClasesGenericas.deps.json
+C:\Users\Dialid\source\repos\ClasesGenericas\ClasesGenericas\bin\Debug\netcoreapp3.1\ClasesGenericas.runtimeconfig.json
+C:\Users\Dialid\source\repos\ClasesGenericas\ClasesGenericas\bin\Debug\netcoreapp3.1\ClasesGenericas.runtimeconfig.dev.json
+C:\Users\Dialid\source\repos\ClasesGenericas\ClasesGenericas\bin\Debug\netcoreapp3.1\ClasesGenericas.dll
+C:\Users\Dialid\source\repos\ClasesGenericas\ClasesGenericas\bin\Debug\netcoreapp3.1\ClasesGenericas.pdb
+C:\Users\Dialid\source\repos\ClasesGenericas\ClasesGenericas\obj\Debug\netcoreapp3.1\ClasesGenericas.AssemblyInfoInputs.cache
+C:\Users\Dialid\source\repos\ClasesGenericas\ClasesGenericas\obj\Debug\netcoreapp3.1\ClasesGenericas.AssemblyInfo.cs
+C:\Users\Dialid\source\repos\ClasesGenericas\ClasesGenericas\obj\Debug\netcoreapp3.1\ClasesGenericas.dll
+C:\Users\Dialid\source\repos\ClasesGenericas\ClasesGenericas\obj\Debug\netcoreapp3.1\ClasesGenericas.pdb

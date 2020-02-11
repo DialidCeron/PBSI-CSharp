@@ -1,0 +1,11 @@
+C:\Users\Dialid\Documents\GitHub\PBSI-CSharp\Serie1\Programa11\Programa11\bin\Debug\netcoreapp3.1\Programa11.exe
+C:\Users\Dialid\Documents\GitHub\PBSI-CSharp\Serie1\Programa11\Programa11\bin\Debug\netcoreapp3.1\Programa11.deps.json
+C:\Users\Dialid\Documents\GitHub\PBSI-CSharp\Serie1\Programa11\Programa11\bin\Debug\netcoreapp3.1\Programa11.runtimeconfig.json
+C:\Users\Dialid\Documents\GitHub\PBSI-CSharp\Serie1\Programa11\Programa11\bin\Debug\netcoreapp3.1\Programa11.runtimeconfig.dev.json
+C:\Users\Dialid\Documents\GitHub\PBSI-CSharp\Serie1\Programa11\Programa11\bin\Debug\netcoreapp3.1\Programa11.dll
+C:\Users\Dialid\Documents\GitHub\PBSI-CSharp\Serie1\Programa11\Programa11\bin\Debug\netcoreapp3.1\Programa11.pdb
+C:\Users\Dialid\Documents\GitHub\PBSI-CSharp\Serie1\Programa11\Programa11\obj\Debug\netcoreapp3.1\Programa11.csprojAssemblyReference.cache
+C:\Users\Dialid\Documents\GitHub\PBSI-CSharp\Serie1\Programa11\Programa11\obj\Debug\netcoreapp3.1\Programa11.AssemblyInfoInputs.cache
+C:\Users\Dialid\Documents\GitHub\PBSI-CSharp\Serie1\Programa11\Programa11\obj\Debug\netcoreapp3.1\Programa11.AssemblyInfo.cs
+C:\Users\Dialid\Documents\GitHub\PBSI-CSharp\Serie1\Programa11\Programa11\obj\Debug\netcoreapp3.1\Programa11.dll
+C:\Users\Dialid\Documents\GitHub\PBSI-CSharp\Serie1\Programa11\Programa11\obj\Debug\netcoreapp3.1\Programa11.pdb

@@ -1,0 +1,10 @@
+C:\Users\Dialid\source\repos\Cadenas\Cadenas\bin\Debug\netcoreapp3.1\Cadenas.exe
+C:\Users\Dialid\source\repos\Cadenas\Cadenas\bin\Debug\netcoreapp3.1\Cadenas.deps.json
+C:\Users\Dialid\source\repos\Cadenas\Cadenas\bin\Debug\netcoreapp3.1\Cadenas.runtimeconfig.json
+C:\Users\Dialid\source\repos\Cadenas\Cadenas\bin\Debug\netcoreapp3.1\Cadenas.runtimeconfig.dev.json
+C:\Users\Dialid\source\repos\Cadenas\Cadenas\bin\Debug\netcoreapp3.1\Cadenas.dll
+C:\Users\Dialid\source\repos\Cadenas\Cadenas\bin\Debug\netcoreapp3.1\Cadenas.pdb
+C:\Users\Dialid\source\repos\Cadenas\Cadenas\obj\Debug\netcoreapp3.1\Cadenas.AssemblyInfoInputs.cache
+C:\Users\Dialid\source\repos\Cadenas\Cadenas\obj\Debug\netcoreapp3.1\Cadenas.AssemblyInfo.cs
+C:\Users\Dialid\source\repos\Cadenas\Cadenas\obj\Debug\netcoreapp3.1\Cadenas.dll
+C:\Users\Dialid\source\repos\Cadenas\Cadenas\obj\Debug\netcoreapp3.1\Cadenas.pdb

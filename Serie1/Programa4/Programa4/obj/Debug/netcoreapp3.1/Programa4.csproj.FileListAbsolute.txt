@@ -1,0 +1,10 @@
+C:\Users\Dialid\Documents\GitHub\PBSI-CSharp\Serie1\Programa4\Programa4\bin\Debug\netcoreapp3.1\Programa4.exe
+C:\Users\Dialid\Documents\GitHub\PBSI-CSharp\Serie1\Programa4\Programa4\bin\Debug\netcoreapp3.1\Programa4.deps.json
+C:\Users\Dialid\Documents\GitHub\PBSI-CSharp\Serie1\Programa4\Programa4\bin\Debug\netcoreapp3.1\Programa4.runtimeconfig.json
+C:\Users\Dialid\Documents\GitHub\PBSI-CSharp\Serie1\Programa4\Programa4\bin\Debug\netcoreapp3.1\Programa4.runtimeconfig.dev.json
+C:\Users\Dialid\Documents\GitHub\PBSI-CSharp\Serie1\Programa4\Programa4\bin\Debug\netcoreapp3.1\Programa4.dll
+C:\Users\Dialid\Documents\GitHub\PBSI-CSharp\Serie1\Programa4\Programa4\bin\Debug\netcoreapp3.1\Programa4.pdb
+C:\Users\Dialid\Documents\GitHub\PBSI-CSharp\Serie1\Programa4\Programa4\obj\Debug\netcoreapp3.1\Programa4.AssemblyInfoInputs.cache
+C:\Users\Dialid\Documents\GitHub\PBSI-CSharp\Serie1\Programa4\Programa4\obj\Debug\netcoreapp3.1\Programa4.AssemblyInfo.cs
+C:\Users\Dialid\Documents\GitHub\PBSI-CSharp\Serie1\Programa4\Programa4\obj\Debug\netcoreapp3.1\Programa4.dll
+C:\Users\Dialid\Documents\GitHub\PBSI-CSharp\Serie1\Programa4\Programa4\obj\Debug\netcoreapp3.1\Programa4.pdb

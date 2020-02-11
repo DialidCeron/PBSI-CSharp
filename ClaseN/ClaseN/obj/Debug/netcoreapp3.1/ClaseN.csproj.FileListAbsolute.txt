@@ -1,0 +1,11 @@
+C:\Users\Dialid\source\repos\ClaseN\ClaseN\bin\Debug\netcoreapp3.1\ClaseN.exe
+C:\Users\Dialid\source\repos\ClaseN\ClaseN\bin\Debug\netcoreapp3.1\ClaseN.deps.json
+C:\Users\Dialid\source\repos\ClaseN\ClaseN\bin\Debug\netcoreapp3.1\ClaseN.runtimeconfig.json
+C:\Users\Dialid\source\repos\ClaseN\ClaseN\bin\Debug\netcoreapp3.1\ClaseN.runtimeconfig.dev.json
+C:\Users\Dialid\source\repos\ClaseN\ClaseN\bin\Debug\netcoreapp3.1\ClaseN.dll
+C:\Users\Dialid\source\repos\ClaseN\ClaseN\bin\Debug\netcoreapp3.1\ClaseN.pdb
+C:\Users\Dialid\source\repos\ClaseN\ClaseN\obj\Debug\netcoreapp3.1\ClaseN.csprojAssemblyReference.cache
+C:\Users\Dialid\source\repos\ClaseN\ClaseN\obj\Debug\netcoreapp3.1\ClaseN.AssemblyInfoInputs.cache
+C:\Users\Dialid\source\repos\ClaseN\ClaseN\obj\Debug\netcoreapp3.1\ClaseN.AssemblyInfo.cs
+C:\Users\Dialid\source\repos\ClaseN\ClaseN\obj\Debug\netcoreapp3.1\ClaseN.dll
+C:\Users\Dialid\source\repos\ClaseN\ClaseN\obj\Debug\netcoreapp3.1\ClaseN.pdb
